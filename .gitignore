@@ -1,1 +1,14 @@
+# --- Python ---
+__pycache__/
+*.pyc
+
+# --- Mac OS ---
 .DS_Store
+
+# --- Windows ---
+Thumbs.db
+Desktop.ini
+
+# --- IDE Settings ---
+.vscode/
+.idea/
